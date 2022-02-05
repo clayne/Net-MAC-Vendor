@@ -1,5 +1,7 @@
 Revision history for Perl module Net::MAC::Vendor
 
+{{$NEXT}}
+
 1.266     2022-02-05 21:34:12Z
         * Fix issue where load_cache causes problems with <> afterwards (PR
           #2, thanks Christopher Layne!)
