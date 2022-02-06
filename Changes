@@ -1,6 +1,6 @@
 Revision history for Perl module Net::MAC::Vendor
 
-{{$NEXT}}
+1.267     2022-02-06 05:08:22Z
         * add IO::Socket::SSL to prereqs
 
 1.266     2022-02-05 21:34:12Z
