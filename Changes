@@ -1,6 +1,7 @@
 Revision history for Perl module Net::MAC::Vendor
 
 {{$NEXT}}
+        * add IO::Socket::SSL to prereqs
 
 1.266     2022-02-05 21:34:12Z
         * Fix issue where load_cache causes problems with <> afterwards (PR

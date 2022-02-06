@@ -5,6 +5,7 @@ use strict;
 use warnings;
 use 5.010;
 
+use IO::Socket::SSL ();
 use Net::SSLeay;
 
 =head1 SYNOPSIS
