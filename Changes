@@ -1,5 +1,7 @@
 Revision history for Perl module Net::MAC::Vendor
 
+{{$NEXT}}
+
 1.268     2022-02-07 05:12:00Z
         * gracefully fail a test if a server couldn't be contacted
 
